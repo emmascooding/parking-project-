@@ -1,4 +1,4 @@
-package parking;
+package parking.parkingbefore;
 
 import java.io.FileWriter;
 import java.io.IOException;

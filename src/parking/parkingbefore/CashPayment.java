@@ -1,4 +1,4 @@
-package parking;
+package parking.parkingbefore;
 
 public class CashPayment implements PaymentMethod {
 

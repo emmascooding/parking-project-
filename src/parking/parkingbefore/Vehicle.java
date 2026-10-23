@@ -1,4 +1,4 @@
-package parking;
+package parking.parkingbefore;
 
 public class Vehicle {
     private final String plate;
